@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=26:FD:0F:5D:B8:AA:2E:E6:8B:35:53:AF:60:74:BF:0B:18:9B:EC:6E%3Bcom.example.mocklocationdemo
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.mocklocationdemo
+
+    SHA-1 certificate fingerprint:
+    26:FD:0F:5D:B8:AA:2E:E6:8B:35:53:AF:60:74:BF:0B:18:9B:EC:6E
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyB1EU7EUihyNeimYCBrqujuO-85V0-qM-I</string>
+</resources>
